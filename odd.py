@@ -11,3 +11,4 @@ while j<a:
     if l[j]%2!=0:
         print(l[j])
     j+=1
+#this is python programme
